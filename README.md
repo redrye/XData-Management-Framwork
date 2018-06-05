@@ -6,5 +6,5 @@ Data Management Framework Based on Project Whiteboard
 * PHP7 or Higher
 
 # Features:
-Flexible Setup featuring Http, PHP and Javascript
-XML, JSON, and MySQL data compatable
+* Flexible Setup featuring Http, PHP and Javascript
+* XML, JSON, and MySQL data compatable
